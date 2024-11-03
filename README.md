@@ -1,1 +1,2 @@
 # university-list
+Excited to share my latest project UniversitiesList on github. Developed using js and powered by the Universities.bipolabs.com, This sleek application allow users to effortlessly access to real time universities list of different country based on country base search. It is a testament to the power of modern web development . It is also fully responsive for seamless viewing accross devices.
